@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Mehedi Hasan Shagor
 
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-
 🚀 Aspiring Software Developer | Web & Mobile Application Developer
 
-I am a passionate developer with hands-on experience in **PHP, Laravel, Flutter, Java, and MySQL**. I love building real-world applications and continuously learning new technologies.
+![C](https://img.shields.io/badge/C-555555?style=flat\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat\&logo=vue.js\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-F16724?style=flat\&logo=mathworks\&logoColor=white)
+
+I am a passionate developer with hands-on experience in these languages, from **basic to advanced**, building real-world applications and continuously learning new technologies.
 
 ---
 
@@ -28,10 +28,13 @@ I am a passionate developer with hands-on experience in **PHP, Laravel, Flutter,
 
 ### 💻 Programming Languages
 
-* PHP
+* C
+* C++
 * Java
+* Python
 * Dart
-* JavaScript
+* Vue.js
+* MATLAB
 
 ### 🌐 Web & App Technologies
 
@@ -43,6 +46,9 @@ I am a passionate developer with hands-on experience in **PHP, Laravel, Flutter,
 ### 🗄️ Database
 
 * MySQL
+* Firebase
+* Hive
+* SQLite
 
 ### 🧰 Tools & Platforms
 
@@ -75,9 +81,9 @@ I am a passionate developer with hands-on experience in **PHP, Laravel, Flutter,
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shagormh\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shagormh\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shagormh\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shagormh\&layout=compact\&theme=tokyonight)
 
 ---
 
