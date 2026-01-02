@@ -1,5 +1,13 @@
 # 👋 Hi, I'm Mehedi Hasan Shagor
 
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+
 🚀 Aspiring Software Developer | Web & Mobile Application Developer
 
 I am a passionate developer with hands-on experience in **PHP, Laravel, Flutter, Java, and MySQL**. I love building real-world applications and continuously learning new technologies.
