@@ -94,6 +94,10 @@ I am a passionate developer with hands-on experience in these languages, from **
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shagormh&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=shagormh&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shagormh&theme=tokyo-night)
+
 ## 🔗 Connect With Me
 
 * 📧 Email: [sagormh18@gmail.com](mailto:sagormh18@gmail.com)
