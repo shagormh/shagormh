@@ -90,11 +90,9 @@ I am a passionate developer with hands-on experience in these languages, from **
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shagormh\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shagormh&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shagormh\&layout=compact\&theme=tokyonight)
-
----
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shagormh&layout=compact&theme=tokyonight)
 
 ## 🔗 Connect With Me
 
