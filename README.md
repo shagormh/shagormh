@@ -66,26 +66,18 @@ I am a passionate developer with hands-on experience in these languages, from **
 
 ---
 
-## 🚀 Recent Projects
+## 📂 Projects
 
 * **[To-Do App](https://github.com/shagormh/to-do-app)** — A task management web app built with Next.js, React, and TypeScript.
 * **[CV Maker App](https://github.com/shagormh/CV-Maker-App)** — A CV-building web app built with Next.js, React, and TypeScript.
 * **[Online Exam System](https://github.com/shagormh/online-exam-system)** — A Flutter app for online exams, with student/admin authentication, an exam interface, and a results dashboard.
 * **[Laravel Inactive User Reminder](https://github.com/shagormh/laravel-inactive-user-reminder)** — A Laravel app that schedules queued reminders for inactive users.
 * **[E-Commerce Flutter App](https://github.com/shagormh/e-commerce-flutter)** — A Flutter e-commerce app starter, with authentication, product listings, cart, and order history planned.
-
-## ✨ Selected Projects
-
-### 🔒 Private Projects
-
-* **DMS** — A Laravel/PHP web application. *(Private repository)*
-* **[Task Management System (Synergy)](https://github.com/shagormh/Task-Management-System)** — A task management project built with Laravel. *(Private repository)*
-* **Alumni Career Tracking & Job Opportunity Analysis Platform** — A full-stack platform with a [Next.js frontend](https://github.com/shagormh/jkkniu-alumni-frontend) and a [NestJS/TypeScript backend](https://github.com/shagormh/jkkniu-alumni-backend). *(Both repositories are private)*
-* **[Career Path Job Recommendation System](https://github.com/shagormh/job-recomendation-system-)** — A Python/Streamlit machine-learning app that recommends career paths and highlights skill gaps. *(Private repository)*
-
-### 🏛️ Hall Project
-
-* **[Hall Management System](https://github.com/shagormh/hall)** — A Laravel app for managing halls, rooms, and seat plans. *(Public repository)*
+* **[DMS](https://github.com/shagormh/DMS)** — A Laravel/PHP web application.
+* **[Task Management System (Synergy)](https://github.com/shagormh/Task-Management-System)** — A task management project built with Laravel.
+* **Alumni Career Tracking & Job Opportunity Analysis Platform** — A full-stack platform with a [Next.js frontend](https://github.com/shagormh/jkkniu-alumni-frontend) and a [NestJS/TypeScript backend](https://github.com/shagormh/jkkniu-alumni-backend).
+* **[Career Path Job Recommendation System](https://github.com/shagormh/job-recomendation-system-)** — A Python/Streamlit machine-learning app that recommends career paths and highlights skill gaps.
+* **[Hall Management System](https://github.com/shagormh/hall)** — A Laravel app for managing halls, rooms, and seat plans.
 
 ---
 
