@@ -83,7 +83,7 @@ I am a passionate developer with hands-on experience in these languages, from **
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shagormh&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shagormh&show_icons=true&theme=tokyonight&hide=commits)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shagormh&layout=compact&theme=tokyonight)
 
