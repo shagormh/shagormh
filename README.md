@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mehedi Hasan Shagor
 
-🚀 Aspiring Software Developer | Web & Mobile Application Developer
+🚀 Junior Software Developer | Web & Mobile Application Developer
 
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
