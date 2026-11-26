@@ -74,6 +74,19 @@ I am a passionate developer with hands-on experience in these languages, from **
 * **[Laravel Inactive User Reminder](https://github.com/shagormh/laravel-inactive-user-reminder)** — A Laravel app that schedules queued reminders for inactive users.
 * **[E-Commerce Flutter App](https://github.com/shagormh/e-commerce-flutter)** — A Flutter e-commerce app starter, with authentication, product listings, cart, and order history planned.
 
+## ✨ Selected Projects
+
+### 🔒 Private Projects
+
+* **DMS** — A Laravel/PHP web application. *(Private repository)*
+* **[Task Management System (Synergy)](https://github.com/shagormh/Task-Management-System)** — A task management project built with Laravel. *(Private repository)*
+* **Alumni Career Tracking & Job Opportunity Analysis Platform** — A full-stack platform with a [Next.js frontend](https://github.com/shagormh/jkkniu-alumni-frontend) and a [NestJS/TypeScript backend](https://github.com/shagormh/jkkniu-alumni-backend). *(Both repositories are private)*
+* **[Career Path Job Recommendation System](https://github.com/shagormh/job-recomendation-system-)** — A Python/Streamlit machine-learning app that recommends career paths and highlights skill gaps. *(Private repository)*
+
+### 🏛️ Hall Project
+
+* **[Hall Management System](https://github.com/shagormh/hall)** — A Laravel app for managing halls, rooms, and seat plans. *(Public repository)*
+
 ---
 
 ## 📊 GitHub Stats
