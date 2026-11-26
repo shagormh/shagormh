@@ -1,5 +1,3 @@
-
-
 # 👋 Hi, I'm Mehedi Hasan Shagor
 
 🚀 Aspiring Software Developer | Web & Mobile Application Developer
@@ -68,23 +66,13 @@ I am a passionate developer with hands-on experience in these languages, from **
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Recent Projects
 
-### 🏢 Hall Management System
-
-* 🔹 Web-based management system
-* 🔹 Built using **Laravel & MySQL**
-* 🔗 Repository: [https://github.com/shagormh/hall](https://github.com/shagormh/hall)
-
-### 📱 Android Application
-
-* 🔹 Android app with validation & clean UI
-* 🔹 Built using **Java**
-
-### 🤖 AI Based Application
-
-* 🔹 Chat & problem-solving features
-* 🔹 Image + math + topic-based solution support
+* **[To-Do App](https://github.com/shagormh/to-do-app)** — A task management web app built with Next.js, React, and TypeScript.
+* **[CV Maker App](https://github.com/shagormh/CV-Maker-App)** — A CV-building web app built with Next.js, React, and TypeScript.
+* **[Online Exam System](https://github.com/shagormh/online-exam-system)** — A Flutter app for online exams, with student/admin authentication, an exam interface, and a results dashboard.
+* **[Laravel Inactive User Reminder](https://github.com/shagormh/laravel-inactive-user-reminder)** — A Laravel app that schedules queued reminders for inactive users.
+* **[E-Commerce Flutter App](https://github.com/shagormh/e-commerce-flutter)** — A Flutter e-commerce app starter, with authentication, product listings, cart, and order history planned.
 
 ---
 
